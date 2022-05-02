@@ -45,7 +45,7 @@
             // UxInputLabel
             // 
             this.UxInputLabel.AutoSize = true;
-            this.UxInputLabel.Location = new System.Drawing.Point(92, 27);
+            this.UxInputLabel.Location = new System.Drawing.Point(102, 29);
             this.UxInputLabel.Name = "UxInputLabel";
             this.UxInputLabel.Size = new System.Drawing.Size(85, 13);
             this.UxInputLabel.TabIndex = 3;
@@ -54,7 +54,7 @@
             // UxOutputLabel
             // 
             this.UxOutputLabel.AutoSize = true;
-            this.UxOutputLabel.Location = new System.Drawing.Point(102, 181);
+            this.UxOutputLabel.Location = new System.Drawing.Point(102, 141);
             this.UxOutputLabel.Name = "UxOutputLabel";
             this.UxOutputLabel.Size = new System.Drawing.Size(0, 13);
             this.UxOutputLabel.TabIndex = 4;
@@ -62,7 +62,7 @@
             // 
             // UxGoButton
             // 
-            this.UxGoButton.Location = new System.Drawing.Point(105, 96);
+            this.UxGoButton.Location = new System.Drawing.Point(105, 71);
             this.UxGoButton.Name = "UxGoButton";
             this.UxGoButton.Size = new System.Drawing.Size(75, 67);
             this.UxGoButton.TabIndex = 6;
@@ -72,7 +72,7 @@
             // 
             // UxResetButton
             // 
-            this.UxResetButton.Location = new System.Drawing.Point(105, 212);
+            this.UxResetButton.Location = new System.Drawing.Point(105, 172);
             this.UxResetButton.Name = "UxResetButton";
             this.UxResetButton.Size = new System.Drawing.Size(75, 23);
             this.UxResetButton.TabIndex = 7;
